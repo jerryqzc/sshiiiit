@@ -33,7 +33,7 @@ body:before {
 
 @font-face {
 	font-family: 'subs';
-	src: url(../fonts/subs.ttf);
+	src: url(../fonts/subs.TTF);
 }
 
 .sun {
